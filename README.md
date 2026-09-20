@@ -1,4 +1,4 @@
-data-analysis-portfolio
+# Data Analysis Portfolio
 
 Portfólio de projetos desenvolvidos com foco em **Análise de Dados, Business Intelligence e Automação**.
 
